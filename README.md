@@ -1,4 +1,6 @@
 # citrusmiao.github.io
+##提交仓库命令
+
 ```
 git init
 git add README.md
